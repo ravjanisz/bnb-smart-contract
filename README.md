@@ -1,3 +1,3 @@
 # BNB Smart Contract
 
-Smart Contract on BNB blockchain written in Solidity.
+Example Smart Contract written in Solidity on BNB blockchain.
